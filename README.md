@@ -1,8 +1,3 @@
-# React + Vite
+# Gifs Expert App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Repositorio de una app creada con React + Vite, con JavaScript. Se pueden buscar `gifs` de https://giphy.com/ y carga 10. Se usa la API de esta web y se consume mediante [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
